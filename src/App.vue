@@ -46,8 +46,6 @@ import styles from './assets/sass/_export.module.scss';
 import Profile from "./components/Profile";
 import Card from "./components/card";
 
-console.log('styles', styles);
-
 export default {
   name: 'App',
   components: {
